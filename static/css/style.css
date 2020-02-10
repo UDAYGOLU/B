@@ -1,0 +1,25 @@
+.container-1 {
+	border: 1px solid black;
+	width: 99%;
+	margin: 0 auto;
+	text-align: center;
+
+	
+}
+.flex-blackjack-row-1, .flex-blackjack-row-2{
+	display: flex;
+	border: 1px solid black;
+	padding: 10px;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+
+
+}
+.flex-blackjack-row-1{
+	background: url('https://www.shutterstock.com/image-photo/emty-green-cloth-poker-table-template-1050297992');
+    overflow: hidden;
+
+}
+
+ 
